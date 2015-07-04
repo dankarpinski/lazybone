@@ -5,12 +5,14 @@ setup(name='lazybone',
       description='Python Library for connecting to a Lazybone Bluetooth Relay',
       author='Daniel Karpinski',
       author_email='dankarpinski@hotmail.com',
+      url='https://github.com/dankarpinski/lazybone',
       classifiers=[
-          'Development Status :: Alpha',
+          'Development Status :: 3 - Alpha',
           'Intended Audience :: Developers',
           'License :: OSI Approved :: GNU General Public License (GPL)',
           'Programming Language :: Python',
           'Programming Language :: Python :: 2',
           'Programming Language :: Python :: 3',
+          'Operating System :: POSIX :: Linux'
           ],
       )
