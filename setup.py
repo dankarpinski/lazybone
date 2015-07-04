@@ -1,6 +1,6 @@
 from distutils.core import setup
 setup(name='lazybone',
-      version='0.1.1',
+      version='0.1.2',
       py_modules=['lazybone'],
       description='Python Library for connecting to a Lazybone Bluetooth Relay',
       author='Daniel Karpinski',
@@ -16,7 +16,6 @@ setup(name='lazybone',
           'Operating System :: POSIX :: Linux'
           ],
       install_requires=[
-          "pybluez",
-          "logging"
+          "pybluez"
           ]
       )
