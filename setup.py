@@ -1,6 +1,6 @@
 from distutils.core import setup
 setup(name='lazybone',
-      version='0.1.0',
+      version='0.1.1',
       py_modules=['lazybone'],
       description='Python Library for connecting to a Lazybone Bluetooth Relay',
       author='Daniel Karpinski',
