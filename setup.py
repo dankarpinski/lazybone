@@ -15,4 +15,8 @@ setup(name='lazybone',
           'Programming Language :: Python :: 3',
           'Operating System :: POSIX :: Linux'
           ],
+        install_requires=[
+            "bluetooth",
+            "logging"
+        ]
       )
